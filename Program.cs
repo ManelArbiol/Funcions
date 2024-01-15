@@ -417,7 +417,7 @@ namespace Project
             {
                 return num * FactorialNumber(num - 1);
             }
-            qerewrerqewrwtwtwetwt
+            
         }
 
     }
